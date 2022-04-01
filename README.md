@@ -8,4 +8,4 @@ Marketplace where sellers and buyers can make transactions for different product
 ![Admin Dashboard](https://i.postimg.cc/hvJyYx29/admin-dashbaord.gif)
 
 # Chat
-[![message.gif](https://i.postimg.cc/SxbTZnCM/message.gif)](https://postimg.cc/zVpFvXdz)
+[![message.gif](https://i.postimg.cc/SxbTZnCM/message.gif)]
